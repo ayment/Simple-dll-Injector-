@@ -1,0 +1,10 @@
+C:\Users\eymen\source\repos\dll injector test\dll injector test\bin\x64\Debug\dll injector test.exe.config
+C:\Users\eymen\source\repos\dll injector test\dll injector test\bin\x64\Debug\dll injector test.exe
+C:\Users\eymen\source\repos\dll injector test\dll injector test\bin\x64\Debug\dll injector test.pdb
+C:\Users\eymen\source\repos\dll injector test\dll injector test\obj\x64\Debug\dll injector test.csproj.AssemblyReference.cache
+C:\Users\eymen\source\repos\dll injector test\dll injector test\obj\x64\Debug\dll_injector_test.Form1.resources
+C:\Users\eymen\source\repos\dll injector test\dll injector test\obj\x64\Debug\dll_injector_test.Properties.Resources.resources
+C:\Users\eymen\source\repos\dll injector test\dll injector test\obj\x64\Debug\dll injector test.csproj.GenerateResource.cache
+C:\Users\eymen\source\repos\dll injector test\dll injector test\obj\x64\Debug\dll injector test.csproj.CoreCompileInputs.cache
+C:\Users\eymen\source\repos\dll injector test\dll injector test\obj\x64\Debug\dll injector test.exe
+C:\Users\eymen\source\repos\dll injector test\dll injector test\obj\x64\Debug\dll injector test.pdb
