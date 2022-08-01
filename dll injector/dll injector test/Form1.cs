@@ -118,11 +118,6 @@ namespace dll_injector_test
                 MessageBox.Show("Please Pick a DLL file!");
             }
         }
-        private void TextBox1_TextChanged(object sender, EventArgs e)
-        {
-            DLLP = TextBox1.Text;
-            TextBox1.ReadOnly = true;
-        }
         public static int Inject(string PM, string DLLP)
         {
 
@@ -182,6 +177,11 @@ namespace dll_injector_test
         private void button4_Click(object sender, EventArgs e)
         {
             Process.Start("https://discord.gg/e7hcEqdG8a");
+        }
+        private void TextBox1_TextChanged_1(object sender, EventArgs e)
+        {
+            DLLP = TextBox1.Text;
+            TextBox1.ReadOnly = true;
         }
     }
 }
